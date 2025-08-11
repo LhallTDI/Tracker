@@ -33,8 +33,8 @@ def safe_get(entry, field, default=""):
 # -------- Define your feeds
 feeds = {
     "Ultra Processed Food": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1DYWH3zMZmlfY-F0ZFitZ_oQWzovDyXzKMHAjArSqxPDxYYsYv/?limit=5",
-    "Drugs": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1DYWH3zMZmlfY-F0ZFitZ_oQWzovDyXzKMHAjArSqxPDxYYsYv/?limit=5",
-    "Manufacturing": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1DYWH3zMZmlfY-F0ZFitZ_oQWzovDyXzKMHAjArSqxPDxYYsYv/?limit=5",
+    "Drugs": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TUbR4JfRTvRr-9IIe2ebhFaw6o8Jfr2RKoHTuN_8FoWVxnkw0/?limit=15&utm_campaign=pubmed-2&fc=20250811115745/?limit=5",
+    "Manufacturing": "https://pubmed.ncbi.nlm.nih.gov/rss/search/14QrMe-OFeMLUSTfJVK9SItFQJBOEwt7c_TxMS41JtZpeEeYAk/?limit=15&utm_campaign=pubmed-2&fc=20250811120444/?limit=5",
 }
 
 # -------- Collect all results
